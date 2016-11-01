@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var lsgrep = require('./modules/ls_grep.js')
 
 var dir = process.argv[2]
